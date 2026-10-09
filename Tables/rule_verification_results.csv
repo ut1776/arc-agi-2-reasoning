@@ -1,0 +1,3 @@
+task_id,rule,train_examples,exact_matches,incorrect,accuracy_percent
+00576224,Alternating horizontal reflection,2,2,0,100.0
+007bbfb7,Pattern-controlled expansion,5,5,0,100.0

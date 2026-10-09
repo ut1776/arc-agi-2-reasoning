@@ -1,0 +1,3 @@
+task_id,prediction_index,height,width,2D_grid,rectangular,integer_cells,colors_in_0_to_9
+00576224,0,6,6,True,True,True,True
+007bbfb7,0,9,9,True,True,True,True

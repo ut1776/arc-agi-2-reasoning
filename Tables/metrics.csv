@@ -1,0 +1,10 @@
+Metric,Value
+Training optimizer steps,429
+Final mean training loss,0.5486
+Base validation loss,0.6996
+Fine-tuned validation loss,0.4407
+Exact matches,0/32
+Syntactically valid grids,32/32
+Test inputs,259
+Fallback candidates,186
+Reported generation errors,7

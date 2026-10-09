@@ -1,0 +1,8 @@
+Metric,Value
+Training tasks,1000.0
+Training examples,3232.0
+Mean training pairs per task,3.23
+Median input grid cells,100.0
+Median output grid cells,93.0
+Examples with changed dimensions,1118.0
+Dimension changes (%),34.59
