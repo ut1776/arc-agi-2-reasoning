@@ -6,6 +6,12 @@
 
 ARC-Gis investigates how AI systems can learn and apply transformations to small colored grids. The project combines exploratory data analysis, a pretrained language model, parameter-efficient fine-tuning experiments, and deterministic rule checks.
 
+## Video
+
+[![Watch the video: Why Small LoRA Models Never Stop](https://img.youtube.com/vi/8jEvclIFjIw/hqdefault.jpg)](https://www.youtube.com/watch?v=8jEvclIFjIw)
+
+**Watch on YouTube:** [Why Small LoRA Models Never Stop: Diagnosing ARC-AGI-2 Output Failures](https://www.youtube.com/watch?v=8jEvclIFjIw)
+
 The central research question is:
 
 > Can a hybrid system combine the learned representations of a neural network with explicit transformation rules to solve unfamiliar abstract grid puzzles more reliably?
