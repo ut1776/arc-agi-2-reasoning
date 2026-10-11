@@ -569,6 +569,12 @@ Color-frequency patterns can support exploratory analysis, but frequency alone d
 
 This figure concerns selected rule checks, not overall competition accuracy.
 
+### Figure 6 — Paper Track submission
+
+![Screenshot of the submitted Paper Track writeup](figures/IMG_1600.jpeg)
+
+This screenshot shows the submitted writeup page on Kaggle. It documents that the writeup was submitted, not how it will be judged.
+
 ### Additional figures
 
 The remaining plots are available as separate files. Open each one individually to avoid layout issues in the README.
