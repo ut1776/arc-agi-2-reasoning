@@ -679,6 +679,7 @@ For future runs, preserve random seeds, task splits, model configuration, and ev
 6. **Gemma model documentation:** [Google AI for Developers](https://ai.google.dev/gemma/docs)
 7. **Transformer overview:** [Google for Developers](https://developers.google.com/machine-learning/crash-course/llm/transformers)
 8. **Apple Foundation Models research:** [Apple Machine Learning Research](https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models)
+9. 9. **ARC Prize 2026 Paper Track writeup:** Umar Tabbsum, [Why Small LoRA Models Never Stop: Diagnosing ARC-AGI-2 Output Failures](https://kaggle.com/competitions/arc-prize-2026-paper-track/writeups/new-writeup-1791693045930)
 
 ---
 
